@@ -6,4 +6,4 @@
 <p> <b>v8.11.20.2</b> Sizing text </p>
 <p> <b>v8.11.20.3</b> Naming syntax fixed </p>
 <p> <b>v8.11.20.4</b> Private IP test </p>
-<p> <b>v8.11.20.5</b> Auto deploy Git trigger -> Jenkins -> ssh push to Docker-host -> build image from Dockerfile -> run in a container </p>
+<p> <b>v8.11.20.5</b> Git trigger -> Jenkins -> ssh push to Docker-host -> docker build image from Dockerfile -> docker run </p>
