@@ -4,4 +4,4 @@
 <h3> --- History --- </h3>
 <p> <b>v8.11.20.1</b> Poll SCM test </p>
 <p> <b>v8.11.20.2</b> Sizing text </p>
-<p> <b>v8.11.20.2</b> Naming syntax fixed </p>
+<p> <b>v8.11.20.3</b> Naming syntax fixed </p>
