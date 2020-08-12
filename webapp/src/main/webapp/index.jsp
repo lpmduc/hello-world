@@ -8,3 +8,4 @@
 <p> <b>v8.11.20.4</b> Private IP test </p>
 <p> <b>v8.11.20.5</b> Git trigger -> Jenkins -> ssh push to Docker-host -> docker build image from Dockerfile -> docker run </p>
 <p> <b>v8.11.20.6</b> Git trigger -> Jenkins -> ssh push to Ansible-server -> Execute ansible playbook to create images & container </p>
+<p> <b>v8.11.20.7</b> Git trigger -> Jenkins -> ssh push to Ansible-server -> Execute ansible playbook to remove existing images & container THEN create images & container </p>
