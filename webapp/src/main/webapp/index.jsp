@@ -7,3 +7,4 @@
 <p> <b>v8.11.20.3</b> Naming syntax fixed </p>
 <p> <b>v8.11.20.4</b> Private IP test </p>
 <p> <b>v8.11.20.5</b> Git trigger -> Jenkins -> ssh push to Docker-host -> docker build image from Dockerfile -> docker run </p>
+<p> <b>v8.11.20.6</b> Git trigger -> Jenkins -> ssh push to Ansible-server -> Execute ansible playbook to create images & container </p>
