@@ -11,3 +11,4 @@
 <p> <b>v8.11.20.7</b> Git trigger -> Jenkins -> ssh push to Ansible-server -> Execute ansible playbook to remove existing images & container THEN create images & container </p>
 <p> <b>v8.11.20.8-9</b> Git trigger -> Jenkins -> ssh push to Ansible-server -> ansible playbook to create docker image ONLY ON ansible-server -> push to dockerhub -> ansible playbook to pull latest image from dockerhub and run in a container ONLY ON docker-host</p>
 <p> <b>v8.11.20.10</b> Git trigger -> Jenkins -> ssh push to Ansible-server -> ansible playbook to create docker image ONLY ON ansible-server -> push to dockerhub -> ansible playbook to ssh to k8s master -> kubectl to deploy & service</p>
+<p> <b>v8.11.20.10</b> As above, testing k8s rollout update </p>
