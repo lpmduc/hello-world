@@ -13,4 +13,4 @@
 <p> <b>v8.11.20.10</b> Git trigger -> Jenkins -> ssh push to Ansible-server -> ansible playbook to create docker image ONLY ON ansible-server -> push to dockerhub -> ansible playbook to ssh to k8s master -> kubectl to deploy & service</p>
 <p> <b>v8.11.20.11</b> As above, testing k8s rollout update </p>
 <p> <b>v8.11.20.12</b> Final test </p>
-<p> <b>v8.11.20.13</b> FINAL TEST - invovle Packer </p>
+<p> <b>v8.11.20.13</b> FINAL TEST - involving Packer </p>
